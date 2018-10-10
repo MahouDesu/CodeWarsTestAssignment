@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp12", "ConsoleApp12\ConsoleApp12.csproj", "{12BF8D9C-AC71-4E42-8002-58E4A57C1144}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWarsKata.cs", "ConsoleApp12\CodeWarsKata.cs.csproj", "{12BF8D9C-AC71-4E42-8002-58E4A57C1144}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWarsKataTests.cs", "XUnitTestProject1\CodeWarsKataTests.cs.csproj", "{413C3F16-AEDB-46D8-9FAF-F3FD4E2CBC91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{12BF8D9C-AC71-4E42-8002-58E4A57C1144}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12BF8D9C-AC71-4E42-8002-58E4A57C1144}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12BF8D9C-AC71-4E42-8002-58E4A57C1144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{413C3F16-AEDB-46D8-9FAF-F3FD4E2CBC91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413C3F16-AEDB-46D8-9FAF-F3FD4E2CBC91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{413C3F16-AEDB-46D8-9FAF-F3FD4E2CBC91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413C3F16-AEDB-46D8-9FAF-F3FD4E2CBC91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
